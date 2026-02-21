@@ -8,4 +8,5 @@ if torch.cuda.is_available():
    print("当前使用的GPU版本:",torch.cuda.get_device_name(torch.cuda.current_device()))
 # import pandas
 #666
+#777
 
